@@ -1,0 +1,56 @@
+.body {
+
+  background-color: teal;
+  font-family: cursive;
+  font-weight: bold;
+}
+.h1{
+
+  color: white;
+  font-weight: bold;
+  align : center;
+
+
+}
+.text{
+
+  width: 310px;
+  height: 50px;
+  border-radius: 10%;
+  border-width: 2px;
+  border-color: teal;
+  font-size: 25px;
+  font-weight: bold;
+  color: orange;
+  text-align:right;
+
+
+
+}
+.button1{
+  width: 65px;
+  height: 50px;
+  font-weight: bold;
+  margin:2px;
+  font-size: 24px;
+
+}
+hr{
+  width: 295px;
+  font-weight: bold;
+  border-color: pink;
+  }
+.clear1{
+  width: 300px;
+  height: 30px;
+  background-color: pink;
+  font-weight: bold;
+  font-size: 24px;
+
+}
+.bd{
+  width: 380px;
+  height: 435px;
+  background-color: silver;
+  border-radius: 10%;
+}
